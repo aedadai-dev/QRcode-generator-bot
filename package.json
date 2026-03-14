@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@paulmillr/qr": "^0.3.0",
+    "ini": "^6.0.0",
+    "node-telegram-bot-api": "^0.67.0",
+    "qrcode": "^1.5.4"
+  }
+}
