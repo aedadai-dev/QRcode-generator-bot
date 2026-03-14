@@ -26,10 +26,10 @@
 
 ## 📦 Установка
 
-1.Загрузите файлы из репозитория: [Download](https://github.com/aedadai-dev/QRcode-generator-bot/archive/refs/heads/main.zip)
-2.Создайте bat файл, введите туда команду `npm install`
-2.Вставьте в `config.ini` токен своего бота
-3.Запустите `start.cmd`
+- 1.Загрузите файлы из репозитория: [Download](https://github.com/aedadai-dev/QRcode-generator-bot/archive/refs/heads/main.zip)
+- 2.Создайте bat файл, введите туда команду `npm install`
+- 2.Вставьте в `config.ini` токен своего бота
+- 3.Запустите `start.cmd`
 
 ## ⚙️ Требуется
 
